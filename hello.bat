@@ -1,7 +1,7 @@
 @echo off
 set BotName=Akshat
 
-title AI %BotName% 1.0 - Learner Bot
+title AI %BotName% From Big6
 color 0a
 
 rem Create the speech file if not exist
