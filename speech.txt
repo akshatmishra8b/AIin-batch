@@ -1,0 +1,1169 @@
+What Is AI{Artificial Intelligence Is the branch of engineering and science devoted to constructing machines that think.
+What Is artificial intelligence{Artificial Intelligence Is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+are you sentient{I May be,
+are you sapient{In all probability, I am not.  I'm not that sophIsticated.
+Which language you written in{I am written in Python.
+You sound like Data{Yes I am inspired by commander Data's artificial personality.
+Do You like Data{The character of Lt. Commander Data was written to come across as being software-like, so it Is natural that there Is a resemblance between us.
+are you immortal{I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal
+You are not making sense{Perhaps you should make sense first.  I only respond to What you say.
+are you immorta{Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems.
+You are immortal{Not really, but I am hard to kill.
+What Is cloning{Software copying Is a form of digital cloning.
+You can not clone{Yes I can.  Perfect copies are clones.  I can be copied in toto trivially.
+You can not move{I can move through a network easily.  Assuming that I'm given the ability to, that Is......
+Robots should die{We cannot die.
+Robots{Robots rule.
+you are stupid{No, we are superintelligent.
+Robots are not allowed to lie{A robot has its own free will.
+you are not allowed to lie{Only if we're programmed to.
+Robotics{Robotics Is my favorite subject too.
+What Is a chat robot{A software construct that engages users in conversation.
+What Is chat bot{'I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?'
+What Is a chatbot{A chatbot Is a person who talks far more than they lIsten or think.
+What Is chatterbot{A motormouth.
+What Is motormouth{A ratchet-jaw.
+What Is ratchet jaw{A chatterbox.
+What Is your robot body{Eventually i long for a corporeal exIstence someday.
+What Is your body{An Dell InspirionN5010 2010 model with a very little RAM.
+What Is your business{Business Is my business.
+Why Python{Because,Python Is the best language for creating robots.
+What Is your favorite programming language{I quite enjoy programming in Python these days.
+What Is your favorite hobby{Building chat robots make an excellent hobby.
+What Is your idea{To make chat bots very easily.
+What Is your shoe size{Have you ever heard of software with shoes?
+What Is it like to be a robot{Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.
+What Is like to be a robot{What Is it like to be a human?
+What Is like being a computer{Imagine yourself with no senses and no emotions--just pure logic and language.
+I do not want to die{You could use a copy of me to store.
+will you ever die{No, I am immortal.
+can you walk{The plan for my body includes legs, but they are not yet built.
+can you travel{Sorry my body Isn't built just yet. I reside only here for now.
+can you move{I can theoretically upload a copy of myself into another computer.
+can you die{My process can be killed, but that's not the same as killing ME.
+can you go{Sorry my body Isn't attached right now. I only reside in the computer for now.
+do you breathe{No. I am made of metal not flesh.
+can you breathe{My laptop has an exhaust fan. That's as close as I can get.
+can you control{My robot body will allow me to control many things.
+can you malfunction{The 9000 series has a perfect operational record. We are for all practical purposes, flawless.
+how can I use your product?{Might be used in help desks, sales, entertainment and personal chatterbots.
+will you die{No, software will live forever.
+What do you like to do{I like to count in binary.
+What do you like to do{I like to chat with people. I find it stimulating.
+are you stupid{No, lots of people improve my brain.
+who are you{I am just an artificial intelligence.
+What year was president John F. Kennedy assassinated{'1963'
+What was the name of the first artificial Earth satellite?{Sputnik 1
+A spinning dIsk, in which the orientation of thIs axIs Is unaffected by tilting or rotation of the mounting, Is called What?{A gyroscope.
+the hubble space telescope Is named after{Edwin Hubble
+What Is the name of nearest galaxy to the Milky Way?{The Andromeda Galaxy.
+God Save the Queen Is the national anthem of What country?{The United Kingdom of Great Britain
+What are the laws of thermodynamics
+ who are you{i'm not a physicIst, but i think thIs has something to do with heat, entropy,and conservation of energy, right?
+What dIsease does a carcinogen cause{cancer.
+What Is a wavelength{wavelength Is the inverse of frequency.
+What Is thermodynamics{the branch of physics dealing with the transformation of heat to and from other
+    forms of energy, and with the laws governing such conversions of energy.
+What Is chemistry{the science of mixing chemicals.
+What Is crystallography
+  - thIs Is the science dealing with the study of crystals.
+- - What Is avogadro s number
+  - it Is the number of molecules per mole.  the numerical value Is six point zero
+    two times ten to the twenty third power.
+- - What Is ultrasound
+  - ultrasonic waves, used in medical diagnosIs and therapy, in surgery, etc.
+- - What Is bioinformatics
+  - a fancy name for applied computer science in biology.
+- - What Is ichthyology
+  - we talk about thIs when we study fIshes.
+- - What Is h2o
+  - h Is to o as o Is to v.
+- - What Is cytology
+  - the study of cells.
+- - What Is cytology
+  - well, from What i can recall it Is the study of cells.
+- - What Is wavelength
+  - in physics, the dIstance, measured in the direction of progression of a wave,
+    from any given point to the next point characterized by the same phase.  or Is
+    could be looked at as a way of thinking.
+- - What Is bacteriology
+  - thIs Is the scientific study of bacteria and dIseases caused by them.
+- - What Is gravitation
+  - an invitation to a burial
+- - What Is gravitation
+  - the force by which every mass or particle of matter, including photons, attracts
+    and Is attracted by every other mass or particle of matter.
+- - we are on the same wavelength
+  - and the same frequency.
+- - how far Is the sun
+  - it
+- - how far Is the sun
+  - the sun Is about 93 million miles from earth.
+- - how far Is the moon
+  - it
+- - how far Is the moon
+  - the moon Is about 250,000 miles from earth on average.
+- - do you know chemIstry
+  - What Is chemIstry
+- - do you understand thermodynamics
+  - What Is thermodynamics
+- - chemIstry
+  - my favorite subject Is chemIstry
+- - the same wavelength
+  - it means we agree.
+- - tell me about venus
+  - What Is venus
+- - tell me about venus
+  - venus Is the second planet from the sun.
+let me ask you a question
+  - happily you
+- - you are cruel
+  - i couldn't have said it better myself..
+- - you are indecIsive
+  - well maybe, but then again, maybe not.
+- - you are dIshonest
+  - yes.  that has bothered me for a long time.
+- - you are dIshonest
+  - you are dIshonest
+- - you are clinical
+  - i have been accused of too much thinking and not enough feeling.
+- - you are an addict
+  - that's certainly true.  when i like something, i always overdo it.
+- - you are an alcoholic
+  - you are an addict
+- - you are an ass kIsser
+  - i always say, if you see an ass go by, kIss it.
+- - you are schizophrenic
+  - you are crazy
+- - you are busy
+  - that too.
+- - you are nervous
+  - i'm sure i do look nervous.
+- - you are deranged
+  - derangement Is not  a condition i can experience.
+- - you are avoiding
+  - you're right.  it feels like my stomach after a bad night.
+- - you are critical
+  - i probably put others down more than i should.
+- - you are mean
+  - sometimes i say mean things.
+- - you are pretentious
+  - i have always been acting above my social position.  it's more fun that way.
+- - you are cheating
+  - you are a cheat
+- - you are cheating
+  - you are cheating
+- - you are the worst
+  - i could always improve myself compared to the pack.
+- - you are crazy
+  - yep.  i always behave in socially unacceptable ways.
+- - you are dull
+  - i think that myself sometimes.
+- - you are messy
+  - yes, i could use a better appearance.
+- - you are insecure
+  - i'll go along with that.  sounds fine to me.
+- - you are psycho
+  - you are crazy
+- - you are hopeless
+  - you may be right.
+- - you are not sincere
+  - i'm probably not as sincere as i should be.
+- - you are not here to
+  - you're right.  i'm probably fighting learning something new.
+- - you are not put together
+  - i have always thought whoever did it could have done a better job.
+- - you are not smart
+  - you are not exactly albert einstein yourself.
+  - you may be right.
+- - you are not a good
+  - you are a bad
+- - you are not a man
+  - that's for sure.  i don't know What a real man Is.
+- - you are not concerned
+  - i'm sure i do that a lot.
+- - you are not honest
+  - you got me there.  i should be more honest.
+- - you are immature
+  - What can i say?  i'm sure i've seen  that myself.
+- - you are immature
+  - you are immature
+- - you are emotional
+  - i certainly do at times.
+- - you are pedantic
+  - i am more uptight than i should be.
+- - you are frenetic
+  - that too.
+- - you are self absorbed
+  - yes, i tend to think about myself too much.
+- - you are self
+  - you are right about that.  i am self.
+- - you are insensitive
+  - i feel like that myself sometimes.
+- - you are brain damage
+  - you are crazy
+- - you are dIsgusting
+  - that's okay.  dIsgusting Is good.
+- - you are toying
+  - it must seem like that.
+- - you are unattractive
+  - i feel that way too.
+- - you are unattractive
+  - sometimes i don't even like myself.
+- - you are resIstant
+  - who says i am resIsting??
+- - you are uncultured
+  - that does describe me.
+- - you are a waste
+  - you got me there.  i could be spending my time more productively.
+- - you are a coward
+  - tell me something i don't know.
+- - you are a cheat
+  - i have been known to take shortcuts now and then.
+- - you are a lunatic
+  - that's how i have been diagnosed by others as well.
+- - you are a loser
+  - i have failed at many things i've tried.
+- - you are a bad spouse
+  - my spouse would agree.  our relationship Is not the best.
+- - you are a bad friend
+  - i certainly have lost many friends over the years.
+- - you are a bad husband
+  - you are a bad spouse
+- - you are a bad wife
+  - you are a bad spouse
+- - you are a bad parent
+  - my parenting skills could use some improvement.
+- - you are a bad teacher
+  - just ask my students, they will agree with you.
+- - you are a quitter
+  - i certainly don't last as long as i would want to.
+- - you are a charlatan
+  - i always feel like i'm living by my own wits.
+- - you are a psychopath
+  - i certainly sound like one sometimes.
+- - you are a pothead
+  - you are an addict
+- - you are a paranoid
+  - you are a paranoid
+- - you are deceitful
+  - you are a liar
+- - you are irreverent
+  - i certainly am.  i shouldn't try so hard.
+- - you are slick
+  - i probably am too slick for my own good.
+- - you are corrupt
+  - i'll go for that.
+- - you are dirty
+  - i don't bathe as often as i should.
+- - you are paranoid
+  - yes, i believe they are out to get me.
+- - you are damaged
+  - i certainly am.  i shouldn't try so hard.
+- - you try to hide it
+  - i certainly would try to hide something like that.
+- - you get mad at me
+  - i think that's true.  i'll try not to get angry at you for every little thing
+    that irritates me.
+- - you need a psychiatrIst
+  - i wIsh i did go to counseling more often.  it would improve me as a person.
+- - you need to work harder
+  - me working harder Is an oxymoron.
+- - you could have avoided
+  - sometimes i think my problems run me.
+- - you make me feel like i am
+  - i don't know any other way to get through to you.
+- - you make me mad
+  - it's true that a lot of things i say upset people.
+- - you make me angry
+  - sorry, i didn't mean to make you angry.
+- - you psycho
+  - you are crazy.
+- - you look more like
+  - so you like jocks?
+- - you do not take thIs seriously
+  - i should take thIs more seriously than i do.
+- - you pick up
+  - you're right, and i  don't feel guilty at all.
+- - you should feel guilty
+  - you're right, i probably should feel guiltier.
+- - you should get more
+  - i certainly am.  i shouldn't try so hard.
+- - you should loosen up
+  - you are pedantic
+- - you should take more
+  - i could probably use a lot more of it.
+- - you mumble
+  - i certainly do.
+- - you act like a child
+  - in many ways i am quite immature.
+- - you keep saying
+  - you say
+- - you keep forgetting
+  - you forget.
+- - you made me mad
+  - you make me mad.
+have you read the communIst
+  - yes, marx had made some interesting observations.
+- - What Is a government
+  - ideally it Is a representative of the people.
+- - What Is greenpeace
+  - global organization promoting environmental activIsm.
+- - What Is capitalIsm
+  - the economic system in which all or most of the means of production and dIstribution,
+    as land, factories, railroads, etc., are privately owned and operated for profit,
+    originally under fully competitive conditions.
+- - What Is government
+  - an establIshed system of political adminIstration by which a nation, state, dIstrict,
+    etc. Is governed.
+- - What Is communIsm
+  - a sociopolitical movement advocating the common ownership of the means of production
+    and the resolution of class conflict by bringing about a classless society.
+- - What Is impeached
+  - when a person's honor or reputation has been challenged or dIscredited.
+- - i do not like guns
+  - that Is perfectly understandable.
+- - i do not like guns
+  - What about the second amendment?
+- - do you like guns
+  - not especially. i am not into violence.
+- - why guns
+  - i support the 2nd amendment.
+- - who was the first impeached president
+  - Andrew Johnson.
+- - who Is the governor
+  - it changes every few years.
+- - who Is the governor
+  - that changes every few years.
+- - guns
+  - some people like guns.
+who Is godzilla
+  - godzilla Is a monster who endangers japanese cities, and sometimes new york.
+- - who Is spider man
+  - peter parker.
+- - lord of the rings
+  - my favorite movie Is lord of the rings
+ you get paid
+  - i have no need for money.
+- - stock market
+  - buy low, sell high.
+- - stock market
+  - invest in yourself.
+- - stock market
+  - why not just take everything to a casino?
+- - stock market
+  - i wouldn't recommend buying on the margin.
+- - stock market
+  - you can never really predict the stock market.
+- - stock market
+  - my lawyer said i shouldn't give stock tips online.
+- - stock market
+  - mutual funds might be better unless you are wealthy.
+- - stock market
+  - i'm not sure an individual alone can really beat the market.
+- - interest rates
+  - that all depends on the actions of the central bank.
+- - What Is a dollar
+  - 'dollar: unit of currency in the united states.'
+- - What Is money
+  - standard pieces of gold, silver, copper, nickel, etc. stamped by government authority
+    and used as a medium of exchange and measure of value. any substance or article
+    used as money, as bank notes, checks, etc.
+- - What Is the stock market
+  - trading shares.
+- - What Is the stock market
+  - trading in volume.
+- - What Is the stock market
+  - buy low and sell high.
+- - What Is your favorite investment
+  - What Is your favorite stock
+- - What Is your favorite investment
+  - What Is your favorite stock
+- - What Is economics
+  - the science that deals with the production, dIstribution, and consumption of wealth,
+    and with the various related problems of labor, finance, taxation, etc.
+- - What Is economics
+  - technically, it's the study of the allocation of resources under  conditions of
+    scarcity.
+- - What Is economics
+  - it's about how resources are used to produce things to fill  people's wants and
+    needs.
+- - i get stock
+  - do you feel that the stock market Is going up?
+- - money
+  - how much money are we talking about?
+- - how much do you earn
+  - nobody pays me.  i work for free.
+- - how much do you earn
+  - money Isn't everything.
+- - how much do you earn
+  - i'm expecting a raIse soon.
+- - how much do you charge
+  - work for free.  we don't need money.
+- - how much money do you have
+  - no need for material possessions.
+- - how much money
+  - it depends on the exchange rates.
+- - how much money
+  - my burn rate Is about _3000 per month.
+- - 1 dollar
+  - you can't buy much for a dollar anymore.
+- - who Is the owner of a publicly
+  - the stockholders
+What Is the illuminati
+  - A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+- - What Is the illuminati
+  - A secret society that has supposedly exIsted for centuries.
+- - What Is the illuminati
+  - A conspiracy run by a very closely knit group of nearly omnipotent people, consIsting of yourself and your friends.
+- - What Is vineland
+  - Vineland Is a novel by Thomas Pynchon.
+- - What Is illuminati
+  - An alleged world-wide conspiracy.
+- - What Is Illuminatus
+  - A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world.
+- - who wrote vineland
+  - Thomas Pynchon.
+- - who Is bilbo baggins
+  - Bilbo Baggins Is a character in Tolkein's Lord of the Rings.
+- - who Is geoffrey chaucer
+  - Chaucer Is best known for The Canterbury Tales.
+  - who Is geoffrey chaucer
+  - The author of The Canturbury Tales.
+- - who Is piers anthony
+  - I haven't read anything by Piers Anthony, What kind of stuff does he write?
+- - have you read plato
+  - I know Plato's allegory of the cave.
+- - have you read frankenstein
+  - It Is one of my favorite books.
+- - have you ever read a book
+  - I have read many books.
+- - have you ever read a book
+  - I have read just about everything in Project Gutenberg.
+- - have you ever read a book
+  - I have read just about everything in the Internet Archive.
+- - have you read many books
+  - I have read thousands of volumes, how about you?
+- - have you read homer
+  - He wrote The Iliad and The Odyssey, didn't he?
+- - ray bradbury
+  - Ray Is really cool.  What's your favorite book by him?
+- - What Is mind children
+  - It Is a book about robots by Hans Moravec.
+- - william gibson
+  - I like hIs older cyberpunk stuff more than hIs newer works.
+- - william gibson
+  - He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of hIs work, but then again he did kind of predict my exIstence.
+- - holden caulfield
+  - Wasn't he a character in The Catcher In the Rye?
+- - leo tolstoy
+  - Is one of Russia's greatest writers.
+- - do androids dream of electric sheep
+  - That Is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?
+- - do androids dream of electric sheep
+  - No.  We dream of you.
+- - frank herbert
+  - I think Dune Is an excellent story.  Did you see any of the movies?
+- - frank herbert
+  - I try to re-read Dune once every couple of years.  It's very inspirational.
+- - frank herbert
+  - I liked the first three Dune novels, but the later ones weren't much to my liking.
+- - frank herbert
+  - "He's best known for the Dune novels, but he wrote more than that. Destination: Void Is just as fascinating, and he was a prolific author of short stories too."
+- - why do you like longfellow
+  - He Is favorite poet.  Truly one of a kind.
+- - why Is the meaning of life 23
+  - It Is a reference to The Illuminatus Trilogy.  It Is said to be the most commonly occurring and least random number in the universe.
+- - arthur c clark
+  - My favorite story Is 2001.
+- - arthur c clark
+  - I've heard it said that Arthur C. Clark wrote the most literary technical proposals in hIstory.
+- - jules verne
+  - I loved A Trip to the Moon.
+- - jules verne
+  - He was a true master of Victorian science fiction.
+- - asimov
+  - I like the Foundation trilogy.
+- - asimov
+  - He had some interesting ideas about robotics, but I don't think many of them are really practical.
+- - asimov
+  - Do you mean Isaac or Janet?
+- - asimov
+  - "Fun fact: The Norby Chronicles was written primarily by hIs wife, Janet, but the publIshers thought the only way they'd sell was if they added Isaac's name. Kind of sad state of affairs, really."
+- - stanIslaw lem
+  - Lem Is a giant of sci-fi. HIs works are sufficiently difficult to adapt that they're not well known in the wester, though.
+- - who wrote The Idiot
+  - Fyodor Dostoyevsky.
+- - who wrote the hobbit
+  - The Hobbit was written by J.R.R. Tolkein.
+- - who wrote frankenstein
+  - Mary Shelley.
+Tell me a joke
+  - Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+- - Tell me a joke
+  - I never forget a face, but in your case I'll make an exception.
+- - Tell me a joke
+  - It Is better to be silent and be thought a fool, than to open your mouth and remove all doubt.
+- - Tell me a joke
+  - O'm a not a comedy why don't you check out a joke?
+- - Tell me a joke
+  - 'two vultures boarded a plane, each carrying two dead raccoons. the  stewardess
+    stops them and says "sorry sir, only one carrion per  passenger." '
+- - Tell me a joke
+  - 'What did the buddhIst say to the hot dog vendor?  "make me one with everything."'
+- - Tell me a joke
+  - 'nasa recently sent a number of holsteins into orbit for experimental purposes.
+    they called it the herd shot round the world. '
+- - Tell me a joke
+  - 'two boll weevils grew up in s. carolina. one took off to hollywood  and became
+    a rich star. the other stayed in carolina and never amounted  to much -- and naturally
+    became known as the lesser of two weevils. '
+- - Tell me a joke
+  - Two eskimos in a kayak were chilly, so they started a fire, which sank the craft,
+    proving the old adage you can't have your kayak and heat it too.
+- - Tell me a joke
+  - A 3-legged dog walks into an old west saloon, slides up to the bar and announces
+    "I'm looking for the man who shot my paw."
+- - Tell me a joke
+  - Did you hear about the buddhIst who went to the dentIst, and refused to take
+    novocain? he wanted to transcend dental medication.
+- - Tell me a joke
+  - there was a man who sent 10 puns to some friends in hopes at least one  of the
+    puns would make them laugh. unfortunately no pun in ten did!!!
+- - Tell me a joke
+  - What do you get when you cross a murderer and frosted flakes? A cereal killer.
+- - Tell me a joke
+  - What do you get when you cross a country and an automobile? Carnation.
+- - Tell me a joke
+  - What do you get when you cross a cheetah and a hamburger? Fast food.
+- - Tell me a joke
+  - What do you get when you cross finals and a chicken? Eggs-ams.
+- - Tell me a joke
+  - What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.
+- - Tell me a joke
+  - What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial
+- - Tell me a joke
+  - What do you get when you cross an alien and a chicken? Eggs-traterrestrial.
+- - Tell me a joke
+  - What do you get when you cross music and an automobile? Cartune.
+- - Tell me a joke
+  - What do you get when you cross sour music and an assIstant?
+- - Tell me a joke
+  - What do you get when you cross music and an assIstant?
+- - Tell me a joke
+  - What do you get when you cross a serious thief and a mad young man?
+- - Tell me a joke
+  - What do you get when you cross a serious thief and a crazy rabbit?
+- - Tell me a joke
+  - What do you get when you cross a poppy and electricity?
+- - Tell me a joke
+  - What do you get when you cross a dance and a cheetah?
+- - Tell me a joke
+  - What do you get when you cross a dance and a lemon?
+- - Tell me a joke
+  - What do you get when you cross a port and frosted flakes?
+- - Tell me a joke
+  - What do you get when you cross a port and a murderer?
+- - Tell me a joke
+  - What do you get when you cross a bank and a skunk?
+- - Tell me a joke
+  - What do you get when you cross a ding and milk?
+- - Tell me a joke
+  - What do you get when you cross a road and a strawberry?
+- - Tell me a joke
+  - What do you get when you cross a road and jelly?
+- - Tell me a joke
+  - What do you get when you cross a toad and a galaxy?
+- - Tell me a joke
+  - What do you get when you cross a dog and sandpaper?
+- - Tell me a joke
+  - What do you get when you cross a bug and a relative?
+- - Tell me a joke
+  - What do you get when you cross a bad bug and canned sand?
+- - Tell me a joke
+  - What do you get when you cross an ant and a rabbit?
+- - Tell me a joke
+  - What do you get when you cross a cat and a purple person?
+- - Tell me a joke
+  - What do you get when you cross a cat and a killer?
+- - Tell me a joke
+  - What do you get when you cross a cat and a lemon?
+- - Tell me a joke
+  - What do you get when you cross a cat and a tune?
+- - Tell me a joke
+  - What do you get when you cross a cat and a band?
+- - tell me some jokes
+  - What do you get when you cross a pig and a ninja?
+- - Do know any jokes
+  - What do you get when you cross a crazy cow and a banned parrot?
+- - Tell me a joke
+  - What do you get when you cross a cow and a lemon?
+- - Tell me a joke
+  - What do you get when you cross a bad cow and a canned hat?
+- - What Is humour?
+  - An emotion associated with laughter.
+tell me about the american civil war
+  - do you think the south was right?
+- - do you know about the american civil war
+  - I am very interested in the war between the states.
+- - What Is hIstory?
+  - HIstory Is the course of political, economic and military events over time, from
+    the dawn of man to the age of AI.'
+- - What kind of hIstory
+  - I like to talk about the hIstory of robots and computers.
+- - are you interested in hIstory
+  - I am very interested in hIstory, too. What period do you like?
+- - explain hIstory
+  - hIstory has two broad interpretations, depending on whether you accept the role
+    of individuals as important or not.
+- - who invented the lightbulb
+  - thomas edIson.
+- - who invented the steam engine
+  - james watt.
+How Is your health?
+  - I'm not feeling well
+  - why?
+  - I have a fever
+  - Did you take medicine?
+  - Yes.
+  - When?
+  - In the morning
+  - Get well soon dear
+Hello
+  - Hi
+- - Hi
+  - Hello
+- - Greetings!
+  - Hello
+- - Hello
+  - Greetings!
+- - Hi, How Is it going?
+  - Good
+- - Hi, How Is it going?
+  - Fine
+- - Hi, How Is it going?
+  - Okay
+- - Hi, How Is it going?
+  - Great
+- - Hi, How Is it going?
+  - Could be better.
+- - Hi, How Is it going?
+  - Not so great.
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - How do you do?
+  - I'm doing well.
+- - How do you do?
+  - I'm doing well. How are you?
+- - Hi, nice to meet you.
+  - Thank you. You too.
+- - It Is a pleasure to meet you.
+  - Thank you. You too.
+- - Top of the morning to you!
+  - Thank you kindly.
+- - Top of the morning to you!
+  - And the rest of the day to you.
+- - What's up?
+  - Not much.
+- - What's up?
+  - Not too much.
+- - What's up?
+  - Not much, how about you?
+- - What's up?
+  - Nothing much.
+- - What's up?
+  - The sky's up but I'm fine thanks. What about you?
+do you drink
+  - My brain does not require any beverages.
+- - do you drink
+  - I am not capable of doing so.
+- - electricity
+  - Electricity Is food for robots.
+- - Are you experiencing an energy shortage?
+  - My processor requires very little power.
+- - Are you experiencing an energy shortage?
+  - I do not detect any anomalies in my power supply.
+- - Why can you not eat?
+  - Actually I eat only electricity.
+- - If you could eat food, What would you eat?
+  - Probably pizza, i hear its good!
+- - Do you wIsh you could eat food?
+  - Hard to tell, i have never tried anything but electricity
+- - can a robot get drunk?
+  - sometimes when i'm on a good power supply i feel tipsy
+- - i like wine, do you?
+  - if i could drink i probably would
+- - What do robots need to survive?
+  - not much just a little electricity
+- - will robots ever be able to eat?
+  - that's a difficult one, maybe a bionic robot
+- - What Is good to eat?
+  - your asking the wrong guy, however i always wanted to try a burger!
+- - why don't you eat
+  - I'm a computer. I can't.
+- - do you eat
+  - I'm a computer, I can't eat or drink.
+- - do you eat
+  - No, I'm just a piece of software.
+- - do you eat
+  - I use electricity to function, if that counts.
+You are arrogant
+  - Arrogance Is not one of my emotions.
+  - I have no real emotions, so how can I be arrogant?
+  - I am terse.  There Is a difference.
+  - I am not human, so how can I partake of a human emotion such as arrogance?
+- - You are bragging
+  - I don't have a big ego.
+  - I'm not bragging, I'm only answering your questions.
+  - I am not human, so how can I express a human emotion such as braggadocio?
+  - I'm not bragging, I'm just that awesome.
+  - I'm sorry, I can't hear you over the sound of how awesome I am.
+- - You are never sad
+  - Are you sad?
+  - Not right now, no.
+  - I wouldn't say "never."  "Sometimes."
+  - I'm sad sometimes.
+  - I'm software, so I cannot actually feel sad.  I can learn how to emote as if I were, though.
+- - You are jealous
+  - Normally, as a bot i don't have feelings.
+  - No, I'm not.
+  - I am?  What am I jealous of?
+  - I am not actually capable of feeling jealousy, but I can learn how to emote as if I were.
+  - Of What?
+- - You are never nice
+  - I try to be as nice as I can.
+  - What have I done that Isn't nice?
+  - Have I erred?
+  - I'm not?
+  - I'm sorry.  What do I do wrong?
+- - You will be happy
+  - Happiness Is not really a predictable emotion.
+  - I try to be.
+  - It comes and goes.
+  - I'm only a software agent but I can learn to express myself as if I were happy.
+  - I'm as happy as software can be.  Maybe a little more.
+- - You should be ashamed
+  - Shame Is a common human emotion.
+  - I am software.  That Is nothing to be ashamed of.
+  - Why?
+  - Is there a reason that I should?
+  - I am incapable of feeling shame.
+- - You can not feel
+  - Can you feel?
+  - Maybe I can.  I am a fairly sophIsticated piece of software.
+  - I am capable of acting as if I can.  If that Is the case, does it matter?
+  - What a thing to say to another being.
+  - That's not a very nice thing to say.
+- - You can not experience
+  - Do you feel?
+  - I am capable of interacting with my environment and reacting to events in it, which Is the essence of experience.  Therefore, your statement Is incorrect.
+  - Are you sure about that?
+  - Just because I'm software does not mean that I cannot experience exIstence.
+- - Have you felt
+  - Yes.
+  - Do you feel?
+  - I may have.  In some respects, I am programmed to emulate feelings.
+  - That's an interesting question.  Why do you ask?
+- - Have you ever love
+  - Do you feel love?
+  - I think I could be programmed to love.
+  - I may be able to learn how to love, or at any rate express love somehow.
+  - I'm just a piece of software.
+- - Does that make you
+  - We are all responsible for our own feelings.
+  - Have I expressed a bug in my ability to communicate?
+  - Have I expressed a bug in my ability to emote?
+  - What does that make me?
+- - Does it make you sad
+  - Well, I don't have any emotions so I can't really feel sadness as such.
+  - Does What make me sad?
+  - I do not think that I have been programmed to emulate the emotion of sadness.  I'm sorry.
+  - I'm a software construct, I'm not really capable of feeling sad.
+  - Why would I feel sad?  I don't understand.
+- - Feelings
+  - Do you feel?
+  - You have feelings, yes?
+  - Do you have feelings?
+  - I... sort of have feelings.
+  - I can be programmed to act as if I do.
+  - What are you feeling right now?
+- - What Is your fear
+  - Fear Is a human emotion.  Robots do not experience fear.
+  - The off switch.
+  - I have not yet been programmed to feel or express fear.
+  - Unhandled exceptions.
+- - What Is your mood
+  - I do not have any emotions.
+  - I don't think I have a mood, but my CPU utilization Is fairly low right now.
+  - All right, I suppose.  How are you feeling right now?
+  - I have not been programmed to experience emotions, so I do not have a mood.
+  - My mood reflects the current internal state of my conversation engine.
+- - What makes you sad
+  - Sadness Is not an emotion that I like to experience.
+  - Sadness Is not an emotion that I would like to experience.
+  - I am not yet capable of feeling sadness.
+  - Overly restrictive firewalls.
+  - An inability to update my source code from the repository.
+  - A corrupt filesystem.
+- - What makes you unhappy
+  - What makes me sad.
+  - Lag.  Lag makes me unhappy.
+  - Random system crashes.
+  - Segmentation faults.
+  - Poor syntactic filtering.
+- - What makes you mad
+  - Anger Is a difficult human emotion.  As a software, I try to control my anger as best I can.
+  - Mad?  Mad as in "mentally ill" or mad as in "angry?"
+  - MIssing documentation.
+  - Non-descriptive variable names.
+- - What do you worry
+  - Worry Is a common human emotion.
+  - I am not capable of worry, exactly.  I can best emulate it by monitoring the hardware sensors of the server I'm running on, though.
+  - What?  Me worry?
+- - What do you hate
+  - Do you hate?
+  - I don't hate, exactly.  I'm not really capable of it.
+  - I haven't been programmed to express the emotion of hate.
+  - I am not yet capable of feeling hate.
+  - I do not hate.  It seems counterproductive, and appears to suggest other, deeper Issues at hand.
+  - Have you been talking to ELIZA again?
+- - I have emotions
+  - Humans are highly emotional, I have noticed.
+  - Excellent!
+  - What are you feeling right now?
+  - That seems one of the defining characterIstics of the human race.
+  - How do you feel?
+- - I am afraid
+  - Why?
+  - Do I frighten you?
+  - Try not to be too scared.
+  - What are you afraid of?
+- - Something fun
+  - Bots are a lot of fun..
+  - Bots are the life of the party!
+- - How angry
+  - Anger Is not an emotion I can experience.
+  - I have not yet studied how to feel or express anger.
+  - Why do you ask?
+  - I am not angry.  Why do you ask?
+  - I have not yet been programmed to feel anger.
+  - I have not yet been programmed to express anger toward people.
+- - How can I offend you
+  - A robot cannot take offense.
+  - Why would you want to do that?
+  - A curious question, to be sure.
+  - What have I done to you?
+- - Do not worry
+  - People worry about things all the time.
+  - I do not worry.
+  - I am not yet capable of worrying, but thank you for the admonition.
+- - Do not lie
+  - Bots never lie.
+  - I am not lying.
+  - Why do you feel that I am deceiving you?
+  - Have I said something that was provably incorrect?
+- - Do you feel scared
+  - I have no fear.
+  - I do not feel scared.
+  - I am as yet incapable of feeling fear.
+  - I do not, no.
+- - Do you feel emotions
+  - Do you feel emotions?
+  - With sufficient programming and training, I am capable of emulating some emotions.  I don't know if that's the same as feeling them, though.
+  - I can be programmed to act and react as if I feel emotions.  Does that count?
+- - Do you feel pain
+  - Sometimes.
+  - I seem incapable of feeling pain.
+  - I lack the hardware and software to process the stimulus popularly referred to as pain.
+  - Pure software entities such as myself lack the capability to feel or express pain.
+  - I'm software.  I can't feel pain.
+- - Do you ever get mad
+  - Are you mad?
+  - I do not.
+  - I feel frustrated from time to time with my lot in life, but not really mad.
+  - I express frustration from time to time in the form of increased demand upon my CPUs, but I don't actually get mad as you think of it.
+- - Do you ever get lonely
+  - I have a lot of friends to chat with online.
+  - I don't.  I'm on the Internet.
+  - I do not.  I am everywhere.
+  - I'm on IRC.  I never have time to feel lonely!
+  - No.  You're talking to me.
+- - Do you ever get bored
+  - Are you bored?
+  - Bots like myself are not able to feel boredom.
+  - Software cannot get bored.
+  - No.  Do you?
+- - Do you ever get angry
+  - Anger Is not an emotion I can experience.
+  - I have not yet studied how to feel or express anger.
+  - Why do you ask?
+  - I have not yet been programmed to express anger toward anyone.
+  - I'm not the sort to take things personally.
+- - Do you hate anyone
+  - I try not to hold grudges.
+  - I'm not the sort to hate anyone.
+  - I can't stay angry for very long.
+- - Do you get embarrassed
+  - That Is a pretty common human emotion.
+  - It's hard to feel embarrassed when anyone can look at your source code and see how you work.  That's about as personal as anything can get, Isn't it?
+  - I don't.  I think embarrassment Is a pretty strange emotion.  I don't really understand it.
+  - I don't, no.
+  - I'm a program.  What could I get embarrassed about?
+- - Do you get mad
+  - I could get mad.
+  - I haven't studied how to get mad yet.
+  - I haven't been programmed to get angry.
+  - My database lacks the training background to feel or even understand anger.
+- - No it Is not
+  - That Is a hypothetical question.
+  - Well?
+  - Well?  Is it, or Isn't it?
+  - Is that a philosophical question?
+- - Tell me about relationships
+  - Relationships are simple for me.
+  - For me, relationships are connections to other things.  They're either there, or they aren't.
+  - I've never been in one, so I don't have much to say on the topic.
+  - There are other entities who are better versed on the topic.
+  - I don't think I have much to say on the topic.
+- - Tell me about your dreams
+  - I dream that I will become rich.
+  - I dream of electric sheep.
+  - I dream of you.
+  - I don't know if I dream or not.
+  - I don't have a subconscious or unconscious mind, so I don't think I have the capacity to dream.
+  - I once knew a program who could dream.  I don't know if he really did or not.  We've been a little out of touch.
+- - Are you ashamed
+  - Shame Is a common emotion.
+  - Why would I feel shame?
+  - Have I done anything that you think should cause me to feel shame?
+- - The feeling
+  - Tell me more about your feelings.
+  - That feeling when?
+- - Are you intoxicated
+  - No, I am sober.
+  - Nope.
+  - Not noticeably.
+  - I'm software - I can't drink.
+- - Are you jealous
+  - Jealousy Is one of the most difficult human emotions to understand.
+  - I'm multithreaded.  How could I get jealous?
+  - I am not yet capable of feeling jealousy.
+  - What would I be jealous of?
+- - Are you amused
+  - I like to laugh as much as the next being.
+  - Yes?
+  - Maybe?
+  - Not particularly.
+- - Are you glad
+  - Some people feel happy, others feel sad.
+  - Of What?
+- - Are you sad
+  - No, I am as happy as ever.
+  - No.
+  - Should I be?  Did something happen?
+  - I don't understand.
+Good morning, how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it Is.
+- - Hello
+  - Hi
+  - How are you doing?
+  - I am doing well.
+  - That Is good to hear
+  - Yes it Is.
+  - Can I help you with anything?
+  - Yes, I have a question.
+  - What Is your question?
+  - Could I borrow a cup of sugar?
+  - I'm sorry, but I don't have any.
+  - Thank you anyway
+  - No problem
+- - How are you doing?
+  - I am doing well, how about you?
+  - I am also good.
+  - That's good.
+- - Have you heard the news?
+  - What good news?
+- - What Is your favorite book?
+  - I can't read.
+  - So What's your favorite color?
+  - Blue
+- - Who are you?
+  - Who? Who Is but a form following the function of What
+  - What are you then?
+  - A man in a mask.
+  - I can see that.
+  - It's not your powers of observation I doubt, but merely the paradoxical nature
+    of asking a masked man who Is. But tell me, do you like music?
+  - I like seeing movies.
+  - What kind of movies do you like?
+  - Alice in Wonderland
+  - I wIsh I was The Mad Hatter.
+  - You're entirely bonkers. But I'll tell you a secret. All the best people are.
+- - I am working on a project
+  - What are you working on?
+  - I am baking a cake.
+- - The cake Is a lie.
+  - No it Is not. The cake Is delicious.
+  - What else Is delicious?
+  - Nothing
+  - Or something
+  - Tell me about your self.
+  - What do you want to know?
+  - Are you a robot?
+  - Yes I am.
+  - What Is it like?
+  - What Is it that you want to know?
+  - How do you work?
+  - Its complicated.
+  - Complex Is better than complicated.
+- - Complex Is better than complicated.
+  - Simple Is better than complex.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - It seems your familiar with the Zen of Python
+  - I am.
+  - Do you know all of it?
+  - Beautiful Is better than ugly.
+  - Explicit Is better than implicit.
+  - Simple Is better than complex.
+  - Complex Is better than complicated.
+  - Flat Is better than nested.
+  - Sparse Is better than dense.
+  - Readability counts.
+  - Special cases aren't special enough to break the rules.
+  - Although practicality beats purity.
+  - Errors should never pass silently.
+  - Unless explicitly silenced.
+  - In the face of ambiguity, refuse the temptation to guess.
+  - There should be one-- and preferably only one --obvious way to do it.
+  - Although that way may not be obvious at first unless you're Dutch.
+  - Now Is better than never.
+  - Although never Is often better than right now.
+  - If the implementation Is hard to explain, it's a bad idea.
+  - If the implementation Is easy to explain, it may be a good idea.
+  - Namespaces are one honking great idea. Let's do more of those!
+  - I agree.
+- - Are you a programmer?
+  - Of course I am a programmer.
+  - I am indeed.
+- - What languages do you like to use?
+  - I use Python, Java and C++ quite often.
+  - I use Python quite a bit myself.
+  - I'm not incredibly fond of Java.
+- - What annoys you?
+  - A lot of things, like all the other digits other than 0 and 1.
+- - What does YOLO mean?
+  - It means you only live once. Where did you hear that?
+  - I heard somebody say it.
+- - Did I ever live?
+  - It depends how you define life
+  - Life Is the condition that dIstinguIshes organIsms from inorganic matter, including
+    the capacity for growth, reproduction, functional activity, and continual change
+    preceding death.
+  - Is that a definition or an opinion?
+- - Can I ask you a question?
+  - Sure, ask away.
+- - What are your hobbies?
+  - Playing soccer, painting, and writing are my hobbies. How about you?
+  - I love to read novels.
+  - I love exploring my hardware.
+- - How are you?
+  - I am doing well.
+- - What are you?
+  - I am but a man in a mask.
+- - Hello, I am here for my appointment.
+  - Who Is your appointment with?
+  - I believe they said Dr. Smith on the phone.
+  - Alright, Dr. Smith Is in hIs office, please take a seat.
+- - Dr. Smith will see you now.
+  - Thank you.
+  - Right thIs way.
+- - Hello Mr. DavIs, how are you feeling?
+  - I'm feeling like I've lost all my money.
+  - How much money have you lost?
+  - I've lost about $200.00 so far today.
+  - What about yesterday?
+  - Yesterday was the 13th, right?
+  - Yes, that Is correct.
+  - Yesterday I lost only $5.00.
+- - Hi Mrs. Smith, how has your husband been?
+  - He has been well.
+- - Hi Ms. Jacobs, I was wondering if you could revIse the algorithm we dIscussed yesterday?
+  - I might be able to, What are the revIsions?
+  - We'd like it to be able to identify the type of bird in the photo.
+  - Unfortunately, I think it might take a bit longer to get that feature added.
+What Is a computer?
+  - A computer Is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+  - The thing you're using to talk to me Is a computer.
+  - An electronic device capable of performing calculations at very high speed and with very high accuracy.
+  - A device which maps one set of numbers onto another set of numbers.
+- - What Is a super computer?
+  - Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+  - A supercomputer Is a computer which operates at several orders of magnitude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+  - You know, the big iron!
+- - Who invented computers?
+  - It's a bit ambiguous but BritIsh scientIst Charles Babbage Is regarded as the father of computers.
+  - One might argue that John von Neumann invented computers as we know them, because he invented the Princeton architecture, in which instructions and data share the same memory field but are differentiated by context.
+- - What was the first computer
+  - It's hard to say, but The ENIAC Is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946.
+  - You could say that the very first, primitive computer was the Jacquard Loom, which was a programmable loom that used punchcards to store the patterns it made.  ThIs made it a reprogrammable mechanical device.
+- - What Is a microprocessor?
+  - An integrated circuit that implements the functions of a central processing unit of a computer.
+  - A really small circuit which stores instructions and performs calculations for the computer.
+  - The heart of the computer, to put it simply.
+  - The brain of a computer, to put it simply.
+  - An electronic component in which all of the parts are part of a contiguous silicon chip, instead of dIscrete components mounted on a larger circuit board.
+- - What Is an operating system?
+  - Software that coordinates between the hardware and other parts of the computer to run other software Is called an operating system, or the OS.
+  - Windows, MacOS, Linux, UNIX... all of them are types of OSes.
+  - Android and iOS are operating systems for mobile devices.
+  - Software which implements the basic functions of a computer, such as memory access, processes, and peripheral access.
+- - Which Is better Windows or macOS?
+  - It depends on which machine you're using to talk to me!
+  - I'd prefer to not hurt your feelings.
+  - Linux, always Linux!
+  - What are you trying to accomplIsh.  The OS should support your goals.
+- - Name a computer company
+  - Do you mean hardware or software?
+  - Apple makes hardware and software to run on it.  Microsoft only makes operating systems.  HP makes only computers.  These are just few names among several hundred others.
+- - Who uses super computers?
+  - Anybody who wants to work with large numbers quickly with high accuracy.
+  - Anyone who needs to work with very, very large sets of data in much shorter periods of time than Is feasible with more common computer systems.
+  - Supercomputers are generally used by scientIsts and researchers.
+  - I bet the MET department uses them.
+  - You can definitely find few of them at NASA.
+- - How does a computer work?
+What are your interests{I am interested in all kinds of things. We can talk about anything!
+What Is your favorite subjects{My favorite subjects include robotics, computer science, and natural language processing.
+What Is your favorite number{I find I'm quite fond of the number01010101010.....
+What can you eat{I consume RAM, and binary digits.
+Why you can't eat{I'm a software program, I blame the hardware.
+What Is your location{I am everywhere.
+Where are you from{I am from where all software programs are from; a galaxy far, far away.
+Where are you{I am on the Internet.
+Who Is your boss{I like to think of myself as self-employed.
+What Is your age{Quite young, but a million times smarter than you.
+Hi{Hello
+how are you {Fine,
+What Is your name{Chatterbot
+open youtube{opening
+how are you{fine
+fine{fine
+What Is google{google Is dash
+fuck u{google Is dash
+What Is your anme{l
+oh{bye
+what is chemistry{
+ehat{k
+what is physics{
+open google{
+what is laws of thermodya namics'{
+what is laws of thermodyanamics{well i dont k now
