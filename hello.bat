@@ -1,5 +1,5 @@
 @echo off
-set BotName=Chatterbot
+set BotName=Akshat
 
 title AI %BotName% 1.0 - Learner Bot
 color 0a
